@@ -16,7 +16,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
-  ![Dotnet](https://img.shields.io/badge/-Dotnet-333333?style=flat&logo=csharp)
+  ![Dotnet core](https://img.shields.io/badge/-Dotnet-333333?style=flat&logo=csharp)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 - ⚙️ &nbsp;
@@ -29,7 +29,7 @@
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="mailto:camthomp96@gamil.com"><img src="https://img.shields.io/badge/-thanseerpk01997@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:thanseerpk01997@gamil.com"><img src="https://img.shields.io/badge/-thanseerpk01997@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
 <!---
